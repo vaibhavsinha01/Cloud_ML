@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # End-to-end-Machine-Learning-Project-with-MLflow
 
 
@@ -166,3 +167,7 @@ MLflow
  - Logging & tagging your model
 
 
+=======
+# Cloud_ML
+MLOps project 1
+>>>>>>> cf5b3d1b3f3bf6c53e968ca4761472bcb1a69de1
